@@ -8,9 +8,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 - Coverage information is added to the merged_mutations_nt.csv file.
+- Add reference positions to mutations file `mutations_nt_pos_ref_aa.csv`, to be used for runControl package. 
+
 
 ### Fixed
-- 
+- Update `drug resistance interpretation` table.
+- Fix headers of reports 
 
 ## [v2.2.1] - 2018-10-17
 
